@@ -36,6 +36,12 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
 
  $\color{#f7d514}{⸝⸝}$ <a href="https://github.com/Nadd-nadd">Nadd-nadd</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#f7d514}{Sigil}$ $\color{#844654}{(nullscape)!}$ 
 
+ $\color{#01670E}{⸝⸝}$ <a href="https://github.com/VCR3ATORMAX">VCR3ATORMAX</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#01670E}{Lloyd}$ $\color{#844654}{(Lego}$ $\color{#844654}{Ninjago)!}$ 
+  
+ $\color{#D710FA}{⸝⸝}$ <a href="https://github.com/Aspenolia">Aspenolia</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#D710FA}{AzureWrath}$ $\color{#844654}{(forsaken)!}$ 
+
+$\color{#c41700}{⸝⸝}$ <a href="https://github.com/killwaree">killwaree</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#c41700}{Doctor}$ $\color{#c41700}{Strange}$ $\color{#844654}{(Marvel)!}$ 
+ 
 
  $\color{#F4C96F}{✦︎}$ $\color{#844654}{Pt's}$ $\color{#844654}{online}$ $\color{#844654}{warriors:}$ 
 
