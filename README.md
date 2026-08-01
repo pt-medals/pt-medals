@@ -42,7 +42,7 @@ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{best}$ $\color{#F4C96F}{ponies:}$
 $\color{#844654}{Pt's}$ $\color{#844654}{prettiest}$ $\color{#844654}{ponies:}$ 
 
 
-$\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{yumes:}$ $\tiny{\textsf{Remember: if there are doubles, I'm adding them! Please don't be upset/harras others just because people share love for the same yume as you. We should all cherish the love we have give to our f/o's!}}$
+$\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{yumes:}$ $\tiny{\textsf{Remember: if there are doubles, I'm adding them! Please don't be upset/harass others just because people share love for the same yume as you. We should all cherish the love we have give to our f/o's!}}$
 
 $\color{#E47E2C}{Katsuki}$ $\color{#E47E2C}{Bakugo's}$ $\color{#E47E2C}{yumes:}$ <a href="https://github.com/Nadd-nadd">Nadd-nadd</a> 
 
