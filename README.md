@@ -6,8 +6,11 @@
 <p align=center>
 $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\color{#F4C96F}{someone!}$ $\color{#F4C96F}{Click}$ $\color{#F4C96F}{on}$ <a href="https://pt-medals.straw.page">this link</a>  $\color{#F4C96F}{to}$   $\color{#F4C96F}{add}$  $\color{#F4C96F}{yourself/someone}$  $\color{#F4C96F}{or}$  $\color{#F4C96F}{to}$  $\color{#F4C96F}{remove}$  $\color{#F4C96F}{yourself!}$  $\color{#F4C96F}{You}$  $\color{#F4C96F}{can}$  $\color{#F4C96F}{also}$  $\color{#F4C96F}{request}$  $\color{#F4C96F}{switching}$  $\color{#F4C96F}{characters/cathegories!}$ $\color{#844654}{(Only}$ $\color{#844654}{if}$
   $\color{#844654}{character/cathegory}$ $\color{#844654}{has}$ $\color{#844654}{a}$ $\color{#844654}{free}$ $\color{#844654}{slot)}$ 
+</p>
 
- $\color{#F4C96F}{If}$ $\color{#F4C96F}{I}$ $\color{#F4C96F}{added}$ $\color{#F4C96F}{someone}$ $\color{#F4C96F}{problematic,}$ $\color{#F4C96F}{please}$ $\color{#F4C96F}{tell}$ $\color{#F4C96F}{me.}$ 
+<p align=center>
+ $\color{#F4C96F}{If}$ $\color{#F4C96F}{I}$ $\color{#F4C96F}{added}$ $\color{#F4C96F}{someone}$ $\color{#F4C96F}{problematic,}$ $\color{#F4C96F}{please}$ $\color{#F4C96F}{tell}$ $\color{#F4C96F}{me.}$  $\color{#F4C96F}{If}$  $\color{#F4C96F}{you're}$  $\color{#F4C96F}{confused}$  $\color{#F4C96F}{about}$
+  $\color{#F4C96F}{the}$ $\color{#F4C96F}{cathegories,}$  $\color{#F4C96F}{click}$  $\color{#F4C96F}{on}$ <a href="https://cathegories.straw.page">this link</a> $\color{#F4C96F}{!}$
 </p>
 
 # $\color{#F4C96F}{⋆.˚}$ $\color{#844654}{HONORABLE}$ $\color{#844654}{MENTIONS}$ $\color{#F4C96F}{⋆.˚}$
