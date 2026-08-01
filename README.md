@@ -32,6 +32,10 @@ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{popular}$ $\color{#F4C96F}{kids:}$
 
 $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{characters:}$
 
+<a href="https://github.com/itrap_2245">itrap_2245</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#6494ed}{Itrap}$ $\color{#844654}{(forsaken)!}$ 
+
+<a href="https://github.com/Nadd-nadd">Nadd-nadd</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#f7d514}{Sigil}$ $\color{#844654}{(nullscape)!}$ 
+
 
 $\color{#844654}{Pt's}$ $\color{#844654}{online}$ $\color{#844654}{warriors:}$ 
 
@@ -46,6 +50,7 @@ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{yumes:}$ $\tiny{\textsf{Remember: if th
 
 $\color{#E47E2C}{Katsuki}$ $\color{#E47E2C}{Bakugo's}$ $\color{#E47E2C}{yumes:}$ <a href="https://github.com/Nadd-nadd">Nadd-nadd</a> 
 
+$\color{#E47E2C}{Mafioso's}$ $\color{#E47E2C}{yumes:}$ <a href="https://github.com/itrap_2245">itrap_2245</a> 
 
 
 <p align=center>
