@@ -4,7 +4,7 @@
 
  # $\color{#844654}{⋆˚࿔}$ $\color{#F4C96F}{PT}$ $\color{#F4C96F}{MEDALS}$ $\color{#844654}{⋆.˚}$
 <p align=center>
-$\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\color{#F4C96F}{someone!}$ $\color{#F4C96F}{Click}$ $\color{#F4C96F}{on}$ <a href="https://github.com/pt-walk-of-fame">this link</a>  $\color{#F4C96F}{to}$   $\color{#F4C96F}{add}$  $\color{#F4C96F}{yourself/someone}$  $\color{#F4C96F}{or}$  $\color{#F4C96F}{to}$  $\color{#F4C96F}{remove}$  $\color{#F4C96F}{yourself!}$  $\color{#F4C96F}{You}$  $\color{#F4C96F}{can}$  $\color{#F4C96F}{also}$  $\color{#F4C96F}{request}$  $\color{#F4C96F}{switching}$  $\color{#F4C96F}{characters/cathegories!}$ $\color{#844654}{(Only}$ $\color{#844654}{if}$
+$\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\color{#F4C96F}{someone!}$ $\color{#F4C96F}{Click}$ $\color{#F4C96F}{on}$ <a href="https://pt-medals.straw.page">this link</a>  $\color{#F4C96F}{to}$   $\color{#F4C96F}{add}$  $\color{#F4C96F}{yourself/someone}$  $\color{#F4C96F}{or}$  $\color{#F4C96F}{to}$  $\color{#F4C96F}{remove}$  $\color{#F4C96F}{yourself!}$  $\color{#F4C96F}{You}$  $\color{#F4C96F}{can}$  $\color{#F4C96F}{also}$  $\color{#F4C96F}{request}$  $\color{#F4C96F}{switching}$  $\color{#F4C96F}{characters/cathegories!}$ $\color{#844654}{(Only}$ $\color{#844654}{if}$
   $\color{#844654}{character/cathegory}$ $\color{#844654}{has}$ $\color{#844654}{a}$ $\color{#844654}{free}$ $\color{#844654}{slot)}$ 
 </p>
 
@@ -29,5 +29,7 @@ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{best}$ $\color{#F4C96F}{ponies:}$
 
 $\color{#844654}{Pt's}$ $\color{#844654}{prettiest}$ $\color{#844654}{ponies:}$
 
-$\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{yumes:}$ $\tiny{\textsf{Remember: if there are doubles, I'm adding them! Please don't be upset/harras others just because people share love for the same yume as you. We should all cherish the love we have give to our yumes!}}$
+$\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{yumes:}$ $\tiny{\textsf{Remember: if there are doubles, I'm adding them! Please don't be upset/harras others just because people share love for the same yume as you. We should all cherish the love we have give to our f/o's!}}$
+
+$\color{#E47E2C}{Katsuki}$ $\color{#E47E2C}{Bakugo's}$ $\color{#E47E2C}{yumes:}$ <a href="https://github.com/Nadd-nadd">Nadd-nadd</a> 
 
