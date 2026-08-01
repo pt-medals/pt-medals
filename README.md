@@ -2,6 +2,10 @@
 <img src="https://files.catbox.moe/3iu5z8.gif">
 </p>
 
+<p align=center>
+<img src="https://komarev.com/ghpvc/?username=pt-medals&color=844654">
+</p>
+
  # $\color{#844654}{⋆˚࿔}$ $\color{#F4C96F}{PT}$ $\color{#F4C96F}{MEDALS}$ $\color{#844654}{⋆.˚}$
 <p align=center>
 $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\color{#F4C96F}{someone!}$ $\color{#F4C96F}{Click}$ $\color{#F4C96F}{on}$ <a href="https://pt-medals.straw.page">this link</a>  $\color{#F4C96F}{to}$   $\color{#F4C96F}{add}$  $\color{#F4C96F}{yourself/someone}$  $\color{#F4C96F}{or}$  $\color{#F4C96F}{to}$  $\color{#F4C96F}{remove}$  $\color{#F4C96F}{yourself!}$  $\color{#F4C96F}{You}$  $\color{#F4C96F}{can}$  $\color{#F4C96F}{also}$  $\color{#F4C96F}{request}$  $\color{#F4C96F}{switching}$  $\color{#F4C96F}{characters/cathegories!}$ $\color{#844654}{(Only}$ $\color{#844654}{if}$
