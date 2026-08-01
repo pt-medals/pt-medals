@@ -32,7 +32,7 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
 
  $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{characters:}$
 
- $\color{#6494ed}{⸝⸝}$ <a href="https://github.com/itrap_2245">itrap_2245</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#6494ed}{Itrapped}$ $\color{#844654}{(forsaken)!}$ 
+ $\color{#6494ed}{⸝⸝}$ <a href="https://github.com/itrap-2245">itrap-2245</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#6494ed}{Itrapped}$ $\color{#844654}{(forsaken)!}$ 
 
  $\color{#f7d514}{⸝⸝}$ <a href="https://github.com/Nadd-nadd">Nadd-nadd</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#f7d514}{Sigil}$ $\color{#844654}{(nullscape)!}$ 
 
@@ -50,7 +50,7 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
 
  $\color{#ff8000}{꩜}$ $\color{#844654}{Katsuki}$ $\color{#844654}{Bakugo's}$ $\color{#844654}{yumes:}$ <a href="https://github.com/Nadd-nadd">Nadd-nadd</a> 
 
- $\color{#161d4d}{꩜}$ $\color{#844654}{Mafioso's}$ $\color{#844654}{yumes:}$ <a href="https://github.com/itrap_2245">itrap_2245</a> 
+ $\color{#161d4d}{꩜}$ $\color{#844654}{Mafioso's}$ $\color{#844654}{yumes:}$ <a href="https://github.com/itrap-2245">itrap-2245</a> 
 
 
 <p align=center>
