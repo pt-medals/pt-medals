@@ -54,5 +54,5 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
 
 
 <p align=center>
-<img src="https://files.catbox.moe/yrx1qn.gif" width="200"> <img src="https://files.catbox.moe/t3qqxo.png" width="200"> <img src="https://files.catbox.moe/08tbjc.png" width="200">
+<img src="https://files.catbox.moe/yrx1qn.gif" width="207"> <img src="https://files.catbox.moe/t3qqxo.png" width="200"> <img src="https://files.catbox.moe/08tbjc.png" width="200">
 </p>
