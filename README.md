@@ -47,6 +47,14 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
    $\color{#ff1e00}{⸝⸝}$ <a href="https://github.com/disorderlyfashion">disorderlyfashion</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#ff1e00}{Raphael}$ $\color{#844654}{(Teenage}$ $\color{#844654}{Mutant}$  $\color{#844654}{Ninja}$  $\color{#844654}{Turtles}$  $\color{#844654}{2012)!}$  
 
    $\color{#F3D42E}{⸝⸝}$ <a href="https://github.com/feralk9">feralk9 </a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#F3D42E}{Captain}$ $\color{#F3D42E}{Sweeper}$ $\color{#844654}{(Minesweeper}$ $\color{#844654}{Plus)!}$ 
+   
+   $\color{#fff987}{⸝⸝}$ <a href="https://github.com/boblovessubaru">boblovessubaru</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#fff987}{Spongebob}$ $\color{#fff987}{Squarepants}$ $\color{#844654}{(Spongebob}$ $\color{#844654}{Squarepants)!}$ 
+
+   $\color{#b9bac4}{⸝⸝}$ <a href="https://github.com/poisonedRitual">poisonedRitual</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#b9bac4}{Twotime!}$ $\color{#844654}{(forsaken)!}$ |
+
+   $\color{#71e344}{⸝⸝}$ <a href="https://github.com/ultimateyearner">ultimateyearner</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#71e344}{Izuku}$ $\color{#71e344}{Midoriya}$ $\color{#844654}{(MHA)!}$ 
+
+
 
  $\color{#F4C96F}{✦︎}$ $\color{#844654}{Pt's}$ $\color{#844654}{online}$ $\color{#844654}{warriors:}$ 
 
@@ -59,11 +67,13 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
 
  $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{yumes:}$ $\tiny{\textsf{Remember: if there are doubles, I'm adding them! Please don't be upset/harass others just because people share love for the same yume as you. We should all cherish the love we have give to our f/o's!}}$
  
-   $\color{#ff8000}{꩜}$ $\color{#844654}{Katsuki}$ $\color{#844654}{Bakugo's}$ $\color{#844654}{yumes:}$ <a href="https://github.com/Nadd-nadd">Nadd-nadd</a> 
+   $\color{#ff8000}{꩜}$ $\color{#844654}{Katsuki}$ $\color{#844654}{Bakugo's}$ $\color{#844654}{(MHA)}$ $\color{#844654}{yumes:}$ <a href="https://github.com/Nadd-nadd">Nadd-nadd</a> 
 
-   $\color{#161d4d}{꩜}$ $\color{#844654}{Mafioso's}$ $\color{#844654}{yumes:}$ <a href="https://github.com/itrap-2245">itrap-2245</a> 
+   $\color{#161d4d}{꩜}$ $\color{#844654}{Mafioso's}$ $\color{#844654}{(4saken/DG)}$ $\color{#844654}{yumes:}$ <a href="https://github.com/itrap-2245">itrap-2245</a> 
 
-   $\color{#F95479}{꩜}$ $\color{#844654}{Verosika}$ $\color{#844654}{Mayday's}$ $\color{#844654}{yumes:}$ <a href="https://github.com/disorderlyfashion">disorderlyfashion</a>
+   $\color{#deba4e}{꩜}$ $\color{#844654}{Abel's}$ $\color{#844654}{(HH)}$ $\color{#844654}{yumes:}$ <a href="https://github.com/freakedoutboy">freakedoutboy</a> 
+
+   $\color{#F95479}{꩜}$ $\color{#844654}{Verosika}$ $\color{#844654}{Mayday's}$ $\color{#844654}{(HH)}$ $\color{#844654}{yumes:}$ <a href="https://github.com/disorderlyfashion">disorderlyfashion</a>
 
 
 <p align=center>
