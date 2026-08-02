@@ -25,7 +25,7 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
 
  $\color{#F4C96F}{✦︎}$ $\color{#844654}{Pt's}$ $\color{#844654}{comfiest}$ $\color{#844654}{c+hs:}$ <a href="https://github.com/77crescentmoon">77crescentmoon</a>
 
- $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{popular}$ $\color{#F4C96F}{kids:}$
+ $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{popular}$ $\color{#F4C96F}{kids:}$ <a href="https://github.com/01-800-PAPU">01-800-PAPU</a>
 
 
 #   $\color{#844654}{⋆˚࿔}$ $\color{#F4C96F}{CATHEGORIES!}$   $\color{#844654}{⋆˚࿔}$
@@ -53,6 +53,11 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
    $\color{#b9bac4}{⸝⸝}$ <a href="https://github.com/poisonedRitual">poisonedRitual</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#b9bac4}{Twotime!}$ $\color{#844654}{(forsaken)!}$ |
 
    $\color{#71e344}{⸝⸝}$ <a href="https://github.com/ultimateyearner">ultimateyearner</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#71e344}{Izuku}$ $\color{#71e344}{Midoriya}$ $\color{#844654}{(MHA)!}$ 
+
+   $\color{#A42D31}{⸝⸝}$ <a href="https://github.com/01-800-PAPU">01-800-PAPU</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#A42D31}{Aldo}$ $\color{#A42D31}{geo}$ $\color{#844654}{(QSMP)!}$ 
+
+   $\color{#ff4545}{⸝⸝}$ <a href="https://github.com/undyingregret">undyingregret</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#ff4545}{Pest}$ $\color{#844654}{(Regretevator)!}$ 
+
 
 
 
