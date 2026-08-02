@@ -51,7 +51,7 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
  $\color{#F4C96F}{✦︎}$ $\color{#844654}{Pt's}$ $\color{#844654}{online}$ $\color{#844654}{warriors:}$ 
 
 
- $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{best}$ $\color{#F4C96F}{ponies:}$ 
+ $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{rainbow}$ $\color{#F4C96F}{ponies:}$ 
 
 
  $\color{#F4C96F}{✦︎}$ $\color{#844654}{Pt's}$ $\color{#844654}{prettiest}$ $\color{#844654}{ponies:}$ 
