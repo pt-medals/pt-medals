@@ -36,22 +36,27 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
 #   $\color{#844654}{⋆˚࿔}$ $\color{#F4C96F}{CATHEGORIES!}$   $\color{#844654}{⋆˚࿔}$
 
  $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{characters/fans:}$
+
+
+
+   $\color{#740308}{⸝⸝}$ <a href="https://github.com/Knuckl3z">Knuckl3z</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#740308}{Shadow}$ $\color{#740308}{The}$ $\color{#740308}{Hedgehog}$ $\color{#844654}{(Sonic}$ $\color{#844654}{The}$ $\color{#844654}{Hedgehog)!}$ 
  
    $\color{#A42D31}{⸝⸝}$ <a href="https://github.com/01-800-PAPU">01-800-PAPU</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#A42D31}{Aldo}$ $\color{#A42D31}{geo}$ $\color{#844654}{(QSMP)!}$ 
-
+   
    $\color{#c41700}{⸝⸝}$ <a href="https://github.com/killwaree">killwaree</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#c41700}{Doctor}$ $\color{#c41700}{Strange}$ $\color{#844654}{(Marvel)!}$
 
    $\color{#ff1e00}{⸝⸝}$ <a href="https://github.com/disorderlyfashion">disorderlyfashion</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#ff1e00}{Raphael}$ $\color{#844654}{(Teenage}$ $\color{#844654}{Mutant}$  $\color{#844654}{Ninja}$  $\color{#844654}{Turtles}$  $\color{#844654}{2012)!}$  
   
    $\color{#ff4545}{⸝⸝}$ <a href="https://github.com/undyingregret">undyingregret</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#ff4545}{Pest}$ $\color{#844654}{(Regretevator)!}$ 
+   
 
   
 
+   
    $\color{#F4611B}{⸝⸝}$ <a href="https://github.com/Misteria0">Misteria0</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#F4611B}{Kenny}$ $\color{#F4611B}{McCormick}$ $\color{#844654}{(South}$ $\color{#844654}{Park)!}$
 
    $\color{#ff6200}{⸝⸝}$ <a href="https://github.com/freakedoutboy">freakedoutboy</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#ff6200}{Michealangelo}$ $\color{#844654}{(Teenage}$ $\color{#844654}{Mutant}$  $\color{#844654}{Ninja}$  $\color{#844654}{Turtles}$  $\color{#844654}{2012)!}$  
 
-   $\color{#FC8503 }{⸝⸝}$ <a href="https://github.com/denguemon">denguemon</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#FC8503}{Meas}$ $\color{#FC8503 }{Samon}$ $\color{#844654}{(Singer}$ $\color{#844654}{and}$ $\color{#844654}{Comedian)!}$
 
 
 
@@ -78,30 +83,44 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
    
    $\color{#A4F7F4}{⸝⸝}$ <a href="https://github.com/PorcelainDolls">PorcelainDolls</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#A4F7F4}{Tisha}$ $\color{#844654}{(Dandy's}$ $\color{#844654}{World)!}$
 
+   $\color{#026EBA}{⸝⸝}$ <a href="https://github.com/yaoiliker">yaoiliker</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#026EBA}{Stan}$ $\color{#026EBA}{Marsh}$ $\color{#844654}{(South}$ $\color{#844654}{Park)!}$
    
-   
-   $\color{#6494ed}{⸝⸝}$ <a href="https://github.com/itrap-2245">itrap-2245</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#6494ed}{Itrapped}$ $\color{#844654}{(forsaken)!}$ 
 
+
+   $\color{#017DDF}{⸝⸝}$ <a href="https://github.com/B3RDLY">B3RDLY</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#017DDF}{Berdly}$ $\color{#844654}{(Deltarune)!}$ 
+   
+   $\color{#6494ed}{⸝⸝}$ <a href="https://github.com/itrap-2245">itrap-2245</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#6494ed}{Itrapped}$ $\color{#844654}{(Forsaken)!}$ 
+   
    $\color{#034AA2}{⸝⸝}$ <a href="https://github.com/Xaplastcore">Xaplastcore</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#034AA2}{Black}$ $\color{#034AA2}{Hook}$ $\color{#844654}{(Metal}$ $\color{#844654}{Cardbot)!}$
    
    $\color{#0900ab}{⸝⸝}$ <a href="https://github.com/mortisfication">mortisfication</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#0900ab}{John}$ $\color{#0900ab}{Ward}$ $\color{#844654}{(Faith:}$ $\color{#844654}{The}$ $\color{#844654}{Unholy}$ $\color{#844654}{Trinity)!}$
 
 
 
+
  
-   $\color{#4F619D}{⸝⸝}$ <a href="https://github.com/yaoiliker">yaoiliker</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#4F619D}{Stan}$ $\color{#4F619D}{Marsh}$ $\color{#844654}{(South}$ $\color{#844654}{Park)!}$
+
+   $\color{#292E80}{⸝⸝}$ <a href="https://github.com/MechanicalBurn">MechanicalBurn</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#292E80}{Neo}$ $\color{#292E80}{Metal}$ $\color{#292E80}{Sonic}$ $\color{#844654}{(Sonic}$ $\color{#844654}{The}$ $\color{#844654}{Hedgehog)!}$
+
+   
+   
+   $\color{#322D83}{⸝⸝}$ <a href="https://github.com/vil-ily">vil-ily</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#322D83}{Rook}$ $\color{#322D83}{Hunt}$ $\color{#844654}{(Twisted}$ $\color{#844654}{Wonderland)!}$
 
    $\color{#5E6186}{⸝⸝}$ <a href="https://github.com/monachgrievings">monachgrievings</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#5E6186}{Lord}$ $\color{#5E6186}{X}$ $\color{#844654}{(Sonic.exe)!}$
 
 
 
-   $\color{#D710FA}{⸝⸝}$ <a href="https://github.com/Aspenolia">Aspenolia</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#D710FA}{AzureWrath}$ $\color{#844654}{(forsaken)!}$ 
+   $\color{#856D81}{⸝⸝}$ <a href="https://github.com/pupsamoyed">pupsamoyed</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#856D81}{Lu}$ $\color{#856D81}{Feng}$ $\color{#844654}{(Little}$ $\color{#844654}{Mushroom)!}$ 
 
+   $\color{#D710FA}{⸝⸝}$ <a href="https://github.com/Aspenolia">Aspenolia</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#D710FA}{AzureWrath}$ $\color{#844654}{(Forsaken)!}$ 
 
-   $\color{#C286A0}{⸝⸝}$ <a href="https://github.com/vatrinyasin">vatrinyasin</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#C286A0}{Sae}$ $\color{#C286A0}{Itoshi}$ $\color{#844654}{(Blue}$ $\color{#844654}{Lock)!}$
+   
+   
+   $\color{#FE0DDB}{⸝⸝}$ <a href="https://github.com/1PWNn00bz">1PWNn00bz</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#FE0DDB}{Infected}$ $\color{#844654}{(Regretevator)!}$ 
    
    $\color{#FF82C8}{⸝⸝}$ <a href="https://github.com/ramudaa">ramudaa</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#FF82C8}{Ramuda}$ $\color{#FF82C8}{Amemura}$ $\color{#844654}{(Hypnosis}$ $\color{#844654}{Mic)!}$
 
+   $\color{#C286A0}{⸝⸝}$ <a href="https://github.com/vatrinyasin">vatrinyasin</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#C286A0}{Sae}$ $\color{#C286A0}{Itoshi}$ $\color{#844654}{(Blue}$ $\color{#844654}{Lock)!}$
 
    
 
@@ -129,39 +148,60 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
 
 
  $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{yumes:}$ $\tiny{\textsf{Remember: if there are doubles, I'm adding them! Please don't be upset/harass others just because people share love for the same yume as you. We should all cherish the love we have give to our f/o's!}}$
+
+
  
  
-   $\color{#AD2026}{꩜}$ $\color{#844654}{Peter}$ $\color{#844654}{Parker's}$ $\color{#844654}{(Marvel)}$ $\color{#844654}{yumes:}$ <a href="https://github.com/01-800-PAPU">01-800-PAPU</a>
+   $\color{#AD2026}{꩜}$ $\color{#844654}{Peter}$ $\color{#844654}{Parker's}$ $\color{#844654}{(Marvel)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/01-800-PAPU">01-800-PAPU</a> ; <a href="https://github.com/peteybenjaminparker">peteybenjaminparker</a>
+
    
    
-   $\color{#ff8000}{꩜}$ $\color{#844654}{Katsuki}$ $\color{#844654}{Bakugo's}$ $\color{#844654}{(MHA)}$ $\color{#844654}{yumes:}$ <a href="https://github.com/Nadd-nadd">Nadd-nadd</a> 
+   $\color{#ff8000}{꩜}$ $\color{#844654}{Katsuki}$ $\color{#844654}{Bakugo's}$ $\color{#844654}{(MHA)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/Nadd-nadd">Nadd-nadd</a> 
 
 
-   $\color{#deba4e}{꩜}$ $\color{#844654}{Abel's}$ $\color{#844654}{(HH)}$ $\color{#844654}{yumes:}$ <a href="https://github.com/freakedoutboy">freakedoutboy</a> 
+
+   $\color{#deba4e}{꩜}$ $\color{#844654}{Abel's}$ $\color{#844654}{(HH)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/freakedoutboy">freakedoutboy</a> 
    
 
-   $\color{#45776B}{꩜}$ $\color{#844654}{Venti}$ $\color{#844654}{(Genshin}$ $\color{#844654}{Impact)}$ $\color{#844654}{yumes:}$ <a href="https://github.com/ArthiaCarnation">ArthiaCarnation</a>
+
+   $\color{#45776B}{꩜}$ $\color{#844654}{Venti's}$ $\color{#844654}{(Genshin}$ $\color{#844654}{Impact)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/ArthiaCarnation">ArthiaCarnation</a>
+
 
 
    $\color{#BEF7F7}{꩜}$ $\color{#844654}{Astro's}$ $\color{#844654}{(Dandy's}$ $\color{#844654}{World)}$ $\color{#844654}{yumes:}$ <a href="https://github.com/sw33tsug4rcookie">sw33tsug4rcookie</a>
 
-   $\color{#AFD0EB}{꩜}$ $\color{#844654}{Rafayel}$ $\color{#844654}{(Love}$ $\color{#844654}{And}$ $\color{#844654}{Deepspace)}$ $\color{#844654}{yumes:}$ <a href="https://github.com/TeaReverie">TeaReverie</a>
+   $\color{#AFD0EB}{꩜}$ $\color{#844654}{Rafayel's}$ $\color{#844654}{(Love}$ $\color{#844654}{And}$ $\color{#844654}{Deepspace)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/TeaReverie">TeaReverie</a>
+
+   $\color{#293955}{꩜}$ $\color{#844654}{Sam}$ $\color{#844654}{Wilson's}$  $\color{#844654}{(Marvel)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/peteybenjaminparker">peteybenjaminparker</a>
 
 
-   $\color{#161d4d}{꩜}$ $\color{#844654}{Mafioso's}$ $\color{#844654}{(4saken/DG)}$ $\color{#844654}{yumes:}$ <a href="https://github.com/itrap-2245">itrap-2245</a> 
+
+   $\color{#161d4d}{꩜}$ $\color{#844654}{Mafioso's}$ $\color{#844654}{(Forsaken/DG)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/itrap-2245">itrap-2245</a> 
+
+   
+   $\color{#323DB3}{꩜}$ $\color{#844654}{SMG4's}$  $\color{#844654}{(SMG4}$ $\color{#844654}{Crew)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/EllieEvan">EllieEvan</a>
 
 
-   $\color{#5E6186}{꩜}$ $\color{#844654}{Lord}$ $\color{#844654}{X}$ $\color{#844654}{(Sonix.exe)}$ $\color{#844654}{yumes:}$ <a href="https://github.com/monachgrievings">monachgrievings</a>
+
+   $\color{#5E6186}{꩜}$ $\color{#844654}{Lord}$ $\color{#844654}{X's}$ $\color{#844654}{(Sonix.exe)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/monachgrievings">monachgrievings</a>
+
    
 
-   $\color{#F95479}{꩜}$ $\color{#844654}{Verosika}$ $\color{#844654}{Mayday's}$ $\color{#844654}{(HB)}$ $\color{#844654}{yumes:}$ <a href="https://github.com/disorderlyfashion">disorderlyfashion</a>
+   $\color{#FE0DDB}{꩜}$ $\color{#844654}{Infected's}$  $\color{#844654}{(Regretevator)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/1PWNn00bz">1PWNn00bz</a>
 
-   $\color{#C286A0}{꩜}$ $\color{#844654}{Sae}$ $\color{#844654}{Itoshi's}$ $\color{#844654}{(Blue}$  $\color{#844654}{Lock)}$ $\color{#844654}{yumes:}$ <a href="https://github.com/vatrinyasin">vatrinyasin</a>
+
+
+   $\color{#F95479}{꩜}$ $\color{#844654}{Verosika}$ $\color{#844654}{Mayday's}$ $\color{#844654}{(HB)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/disorderlyfashion">disorderlyfashion</a>
+
+   $\color{#C286A0}{꩜}$ $\color{#844654}{Sae}$ $\color{#844654}{Itoshi's}$ $\color{#844654}{(Blue}$  $\color{#844654}{Lock)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/vatrinyasin">vatrinyasin</a>
+
    
 
-   $\color{#451D12}{꩜}$ $\color{#844654}{Hyuna}$  $\color{#844654}{(ALNST)}$ $\color{#844654}{yumes:}$ <a href="https://github.com/PorcelainDolls">PorcelainDolls</a>
+   $\color{#451D12}{꩜}$ $\color{#844654}{Hyuna's}$  $\color{#844654}{(ALNST)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/PorcelainDolls">PorcelainDolls</a>
    
-   $\color{#0A0502}{꩜}$ $\color{#844654}{AM}$  $\color{#844654}{(IHNMAIMS)}$ $\color{#844654}{yumes:}$ <a href="https://github.com/computerfanaticc">computerfanaticc</a>
+   $\color{#0A0502}{꩜}$ $\color{#844654}{AM's}$  $\color{#844654}{(IHNMAIMS)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/computerfanaticc">computerfanaticc</a>
+   
+
 
    
 
