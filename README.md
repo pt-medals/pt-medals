@@ -32,7 +32,6 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
 
  $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{popular}$ $\color{#F4C96F}{kids:}$ <a href="https://github.com/01-800-PAPU">01-800-PAPU</a>
 
-  $\color{#F4C96F}{✦︎}$ $\color{#844654}{Pt's}$ $\color{#844654}{online}$ $\color{#844654}{warriors:}$ <a href="https://github.com/W1ERDC0RE">W1ERDC0RE</a>
 
 
 #   $\color{#844654}{⋆˚࿔}$ $\color{#F4C96F}{CATEGORIES!}$   $\color{#844654}{⋆˚࿔}$
@@ -197,7 +196,7 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
    
    
 
- $\color{#F4C96F}{✦︎}$ $\color{#844654}{Pt's}$ $\color{#844654}{online}$ $\color{#844654}{warriors:}$ <a href="https://github.com/ramudaa">ramudaa</a> ; <a href="https://github.com/vatrinyasin">vatrinyasin</a> ; <a href="https://github.com/ENUMAELlSH">ENUMAELlSH</a>
+ $\color{#F4C96F}{✦︎}$ $\color{#844654}{Pt's}$ $\color{#844654}{online}$ $\color{#844654}{warriors:}$ <a href="https://github.com/ramudaa">ramudaa</a> ; <a href="https://github.com/vatrinyasin">vatrinyasin</a> ; <a href="https://github.com/ENUMAELlSH">ENUMAELlSH</a> ; <a href="https://github.com/W1ERDC0RE">W1ERDC0RE</a>
 
 
  $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{rainbow}$ $\color{#F4C96F}{ponies:}$ 
