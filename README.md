@@ -30,7 +30,7 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
 
 #   $\color{#844654}{⋆˚࿔}$ $\color{#F4C96F}{CATHEGORIES!}$   $\color{#844654}{⋆˚࿔}$
 
- $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{characters:}$
+ $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{characters/fans:}$
 
    $\color{#6494ed}{⸝⸝}$ <a href="https://github.com/itrap-2245">itrap-2245</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#6494ed}{Itrapped}$ $\color{#844654}{(forsaken)!}$ 
 
@@ -57,6 +57,10 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
    $\color{#A42D31}{⸝⸝}$ <a href="https://github.com/01-800-PAPU">01-800-PAPU</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#A42D31}{Aldo}$ $\color{#A42D31}{geo}$ $\color{#844654}{(QSMP)!}$ 
 
    $\color{#ff4545}{⸝⸝}$ <a href="https://github.com/undyingregret">undyingregret</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#ff4545}{Pest}$ $\color{#844654}{(Regretevator)!}$ 
+
+   $\color{#4C3B2D}{⸝⸝}$ <a href="https://github.com/yaasuhiro">yaasuhiro</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#4C3B2D}{number}$ $\color{#4C3B2D}{1}$ $\color{#4C3B2D}{Yasuhiro}$ $\color{#4C3B2D}{Hagakure's}$ $\color{#4C3B2D}{fan}$ $\color{#844654}{(Danganronpa)!}$ 
+
+   $\color{#4F619D}{⸝⸝}$ <a href="https://github.com/yaoiliker">yaoiliker</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#4F619D}{Stan}$ $\color{#4F619D}{Marsh}$ $\color{#844654}{(South}$ $\color{#844654}{Park)!}$
 
 
 
