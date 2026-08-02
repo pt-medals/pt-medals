@@ -241,7 +241,7 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
 
 
    
-   $\color{#161d4d}{꩜}$ $\color{#844654}{Mafioso's}$ $\color{#844654}{(Forsaken/DG)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/itrap-2245">itrap-2245</a> 
+   $\color{#161d4d}{꩜}$ $\color{#844654}{Mafioso's}$ $\color{#844654}{(Forsaken/DG)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/itrap-2245">itrap-2245</a> ; <a href="https://github.com/DOR-fic">DOR-fic</a> 
 
    
    $\color{#323DB3}{꩜}$ $\color{#844654}{SMG4's}$  $\color{#844654}{(SMG4}$ $\color{#844654}{Crew)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/EllieEvan">EllieEvan</a>
