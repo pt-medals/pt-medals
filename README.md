@@ -95,6 +95,8 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
 
    
    
+   $\color{#B1C25F}{⸝⸝}$ <a href="https://github.com/itsritsu">itsritsu</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#B1C25F}{Enkidu}$ $\color{#844654}{(Fate}$ $\color{#844654}{Series)!}$ 
+   
    $\color{#83E170}{⸝⸝}$ <a href="https://github.com/ianishuser">ianishuser</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#83E170}{Avery}$  $\color{#844654}{(SFAWTDE)!}$ 
 
    $\color{#8EBB86}{⸝⸝}$ <a href="https://github.com/neverwanted2dance">neverwanted2dance</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#8EBB86}{Vee}$ $\color{#844654}{(Dandy's}$ $\color{#844654}{World)!}$
@@ -133,7 +135,11 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
 
    $\color{#0900ab}{⸝⸝}$ <a href="https://github.com/mortisfication">mortisfication</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#0900ab}{John}$ $\color{#0900ab}{Ward}$ $\color{#844654}{(Faith:}$ $\color{#844654}{The}$ $\color{#844654}{Unholy}$ $\color{#844654}{Trinity)!}$
   
+   $\color{#2637A2}{⸝⸝}$ <a href="https://github.com/Hound-Of-Ulster">Hound-Of-Ulster</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#2637A2}{Cú}$ $\color{#2637A2}{Chulainn}$ $\color{#844654}{(Fate}$ $\color{#844654}{Series)!}$
+   
    $\color{#24388c}{⸝⸝}$ <a href="https://github.com/realdustsans">realdustsans</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#24388c}{Dusttale}$ $\color{#24388c}{Sans}$ $\color{#844654}{(Undertale}$ $\color{#844654}{AU)!}$
+
+
 
 
    
@@ -144,8 +150,6 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
    $\color{#5E6186}{⸝⸝}$ <a href="https://github.com/monachgrievings">monachgrievings</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#5E6186}{Lord}$ $\color{#5E6186}{X}$ $\color{#844654}{(Sonic.exe)!}$
 
 
-
-   $\color{#856D81}{⸝⸝}$ <a href="https://github.com/pupsamoyed">pupsamoyed</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#856D81}{Lu}$ $\color{#856D81}{Feng}$ $\color{#844654}{(Little}$ $\color{#844654}{Mushroom)!}$ 
 
    $\color{#7A5DA0}{⸝⸝}$ <a href="https://github.com/RE0-MIKAGE">RE0-MIKAGE</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#7A5DA0}{Reo}$ $\color{#7A5DA0}{Mikage}$ $\color{#844654}{(Blue}$ $\color{#844654}{Lock)!}$
 
@@ -171,6 +175,8 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
 
    $\color{#C286A0}{⸝⸝}$ <a href="https://github.com/vatrinyasin">vatrinyasin</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#C286A0}{Sae}$ $\color{#C286A0}{Itoshi}$ $\color{#844654}{(Blue}$ $\color{#844654}{Lock)!}$
       
+   $\color{#856D81}{⸝⸝}$ <a href="https://github.com/pupsamoyed">pupsamoyed</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#856D81}{Lu}$ $\color{#856D81}{Feng}$ $\color{#844654}{(Little}$ $\color{#844654}{Mushroom)!}$ 
+
 
    
    $\color{#CF825A}{⸝⸝}$ <a href="https://github.com/sw33tsug4rcookie">sw33tsug4rcookie</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#CF825A}{Ginger}$ $\color{#CF825A}{The}$ $\color{#CF825A}{Cookie}$ $\color{#844654}{(Dandy's}$ $\color{#844654}{World)!}$
