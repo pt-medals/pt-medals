@@ -314,6 +314,8 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
    
    $\color{#dedede}{꩜}$ $\color{#844654}{Spamton's}$  $\color{#844654}{(Deltarune)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/timaeusTT">timaeusTT</a>
    
+   $\color{#f0f0f0}{꩜}$ $\color{#844654}{Nagito}$ $\color{#844654}{Komaeda's}$  $\color{#844654}{(Danganronpa)}$ $\color{#844654}{yume(s):}$ <a href="https://github.com/oncology-angel">oncology-angel</a>
+   
 
 
    
