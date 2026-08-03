@@ -175,7 +175,7 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
    
    $\color{#CF825A}{⸝⸝}$ <a href="https://github.com/sw33tsug4rcookie">sw33tsug4rcookie</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#CF825A}{Ginger}$ $\color{#CF825A}{The}$ $\color{#CF825A}{Cookie}$ $\color{#844654}{(Dandy's}$ $\color{#844654}{World)!}$
 
-   $\color{#B96843}{⸝⸝}$ <a href="https://github.com/TEARY-EYED">TEARY-EYED</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#B96843}{Asuka}$ $\color{#B96843}{Langley}$ $\color{#844654}{(Neon}$ $\color{#844654}{Genesis}$ $\color{#844654}{Evangelion)!}$\
+   $\color{#B96843}{⸝⸝}$ <a href="https://github.com/TEARY-EYED">TEARY-EYED</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#B96843}{Asuka}$ $\color{#B96843}{Langley}$ $\color{#844654}{(Neon}$ $\color{#844654}{Genesis}$ $\color{#844654}{Evangelion)!}$
    
    $\color{#4C3B2D}{⸝⸝}$ <a href="https://github.com/yaasuhiro">yaasuhiro</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#4C3B2D}{number}$ $\color{#4C3B2D}{1}$ $\color{#4C3B2D}{Yasuhiro}$ $\color{#4C3B2D}{Hagakure's}$ $\color{#4C3B2D}{fan}$ $\color{#844654}{(Danganronpa)!}$ 
 
