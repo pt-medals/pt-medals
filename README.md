@@ -58,15 +58,13 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
   
    
 
-  
-
-   
    $\color{#F4611B}{⸝⸝}$ <a href="https://github.com/Misteria0">Misteria0</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#F4611B}{Kenny}$ $\color{#F4611B}{McCormick}$ $\color{#844654}{(South}$ $\color{#844654}{Park)!}$
 
    $\color{#ff6200}{⸝⸝}$ <a href="https://github.com/freakedoutboy">freakedoutboy</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#ff6200}{Michealangelo}$ $\color{#844654}{(Teenage}$ $\color{#844654}{Mutant}$  $\color{#844654}{Ninja}$  $\color{#844654}{Turtles}$  $\color{#844654}{2012)!}$  
    
+   $\color{#E56F42}{⸝⸝}$ <a href="https://github.com/OrangeDeltarune">OrangeDeltarune</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#E56F42}{LookOut3D}$ $\color{#844654}{(MCYT)!}$ 
+   
    $\color{#F7AF59}{⸝⸝}$ <a href="https://github.com/5orrows">5orrows</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#F7AF59}{Ichigo}$ $\color{#F7AF59}{Kurosaki}$ $\color{#844654}{(Bleach)!}$ 
-
 
 
 
@@ -154,12 +152,13 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
 
 
 
+   $\color{#3d4ba8}{⸝⸝}$ <a href="https://github.com/kniferrific">kniferrific</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#3d4ba8}{Craig}$ $\color{#3d4ba8}{Tucker}$ $\color{#844654}{(South}$ $\color{#844654}{Park)!}$
    
    $\color{#292E80}{⸝⸝}$ <a href="https://github.com/MechanicalBurn">MechanicalBurn</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#292E80}{Neo}$ $\color{#292E80}{Metal}$ $\color{#292E80}{Sonic}$ $\color{#844654}{(Sonic}$ $\color{#844654}{The}$ $\color{#844654}{Hedgehog)!}$
 
    $\color{#322D83}{⸝⸝}$ <a href="https://github.com/vil-ily">vil-ily</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#322D83}{Rook}$ $\color{#322D83}{Hunt}$ $\color{#844654}{(Twisted}$ $\color{#844654}{Wonderland)!}$
 
-   $\color{#5E6186}{⸝⸝}$ <a href="https://github.com/monachgrievings">monachgrievings</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#5E6186}{Lord}$ $\color{#5E6186}{X}$ $\color{#844654}{(Sonic.exe)!}$
+   $\color{#5c50a1}{⸝⸝}$ <a href="https://github.com/monachgrievings">monachgrievings</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#5c50a1}{Lord}$ $\color{#5c50a1}{X}$ $\color{#844654}{(Sonic.exe)!}$
 
 
 
