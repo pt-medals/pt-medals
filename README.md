@@ -51,9 +51,11 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
 
    $\color{#c41700}{⸝⸝}$ <a href="https://github.com/killwaree">killwaree</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#c41700}{Doctor}$ $\color{#c41700}{Strange}$ $\color{#844654}{(Marvel)!}$
 
-   $\color{#D31F28}{⸝⸝}$ <a href="https://github.com/waveriy">waveriy</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#D31F28}{Twoface}$ $\color{#844654}{(DC)!}$
+   $\color{#D31F28}{⸝⸝}$ <a href="https://github.com/waveriy">waveriy</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#D31F28}{Twoface}$ $\color{#844654}{(DC)!}$  
    
-   $\color{#ff1e00}{⸝⸝}$ <a href="https://github.com/disorderlyfashion">disorderlyfashion</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#ff1e00}{Raphael}$ $\color{#844654}{(Teenage}$ $\color{#844654}{Mutant}$  $\color{#844654}{Ninja}$  $\color{#844654}{Turtles}$ $\color{#844654}{2012)!}$     
+   $\color{#eb1717}{⸝⸝}$ <a href="https://github.com/suguruberry">suguruberry</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$  $\color{#eb1717}{Spiderman}$ $\color{#844654}{(Marvel)!}$ 
+   
+   $\color{#ff1e00}{⸝⸝}$ <a href="https://github.com/disorderlyfashion">disorderlyfashion</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#ff1e00}{Raphael}$ $\color{#844654}{(Teenage}$ $\color{#844654}{Mutant}$  $\color{#844654}{Ninja}$  $\color{#844654}{Turtles}$ $\color{#844654}{2012)!}$   
 
    $\color{#EE321F}{⸝⸝}$ <a href="https://github.com/PinkiePieExplosion">PinkiePieExplosion</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#EE321F}{Fez}$ $\color{#844654}{(PT)!}$ 
   
@@ -81,6 +83,8 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
 
    $\color{#F3DD6C}{⸝⸝}$ <a href="https://github.com/KUJOHS">KUJOHS</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#F3DD6C}{Jolyne}$ $\color{#F3DD6C}{Cujoh}$ $\color{#844654}{(Jojo'S}$ $\color{#844654}{Bizzare}$ $\color{#844654}{Adventure)!}$
 
+   $\color{#D9CFA0}{⸝⸝}$ <a href="https://github.com/futuristic-maniac">futuristic-maniac</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#D9CFA0}{Yuuri}$ $\color{#844654}{(Girl's}$ $\color{#844654}{Last}$ $\color{#844654}{Tour)!}$ 
+   
    $\color{#E9E591}{⸝⸝}$ <a href="https://github.com/dewittelurv">dewittelurv</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$  $\color{#E9E591}{TheobaldThebird}$ $\color{#844654}{(Unstable}$ $\color{#844654}{SMP)!}$
    
    $\color{#f7d514}{⸝⸝}$ <a href="https://github.com/Nadd-nadd">Nadd-nadd</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#f7d514}{Sigil}$ $\color{#844654}{(nullscape)!}$ 
@@ -92,6 +96,8 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
    $\color{#F6F735}{⸝⸝}$ <a href="https://github.com/Kaleidoskulls">Kaleidoskulls</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#F6F735}{number}$ $\color{#F6F735}{1}$ $\color{#F6F735}{Lemon}$ $\color{#F6F735}{Demon's}$ $\color{#F6F735}{fan}$ $\color{#844654}{(Lemon}$ $\color{#844654}{Demon)!}$
 
    $\color{#f7ff5e}{⸝⸝}$ <a href="https://github.com/boblovessubaru">boblovessubaru</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#f7ff5e}{Spongebob}$ $\color{#f7ff5e}{Squarepants}$ $\color{#844654}{(Spongebob}$ $\color{#844654}{Squarepants)!}$ 
+   
+   
 
 
 
@@ -144,6 +150,8 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
    $\color{#489EF1}{⸝⸝}$ <a href="https://github.com/Zadoodoo67">Zadoodoo67</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#489EF1}{Ze}$ $\color{#844654}{(AreGect)!}$ 
    
    $\color{#398FE2}{⸝⸝}$ <a href="https://github.com/AndroidSentByCyberlife">AndroidSentByCyberlife</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#398FE2}{Connor}$ $\color{#844654}{(Detroit:}$ $\color{#844654}{Become}$ $\color{#844654}{Human)!}$ 
+
+
    
    
    $\color{#034AA2}{⸝⸝}$ <a href="https://github.com/Xaplastcore">Xaplastcore</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#034AA2}{Black}$ $\color{#034AA2}{Hook}$ $\color{#844654}{(Metal}$ $\color{#844654}{Cardbot)!}$
@@ -151,6 +159,8 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
    $\color{#0900ab}{⸝⸝}$ <a href="https://github.com/mortisfication">mortisfication</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#0900ab}{John}$ $\color{#0900ab}{Ward}$ $\color{#844654}{(Faith:}$ $\color{#844654}{The}$ $\color{#844654}{Unholy}$ $\color{#844654}{Trinity)!}$
   
    $\color{#2637A2}{⸝⸝}$ <a href="https://github.com/Hound-Of-Ulster">Hound-Of-Ulster</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#2637A2}{Cú}$ $\color{#2637A2}{Chulainn}$ $\color{#844654}{(Fate}$ $\color{#844654}{Series)!}$
+   
+   $\color{#19327D}{⸝⸝}$ <a href="https://github.com/2099s">2099s</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#19327D}{Miguel}$ $\color{#19327D}{O'hara}$ $\color{#844654}{(Marvel)!}$
    
    $\color{#24388c}{⸝⸝}$ <a href="https://github.com/realdustsans">realdustsans</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#24388c}{Dusttale}$ $\color{#24388c}{Sans}$ $\color{#844654}{(Undertale}$ $\color{#844654}{AU)!}$
 
@@ -190,6 +200,8 @@ $\color{#F4C96F}{Nominate}$ $\color{#F4C96F}{yourself}$ $\color{#F4C96F}{or}$ $\
    $\color{#F6099F}{⸝⸝}$ <a href="https://github.com/parameowia">parameowia</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#F6099F}{Skittles}$ $\color{#844654}{(HWWHP)!}$ 
 
    $\color{#F11668}{⸝⸝}$ <a href="https://github.com/MarcyWu">MarcyWu</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#F11668}{Sailor}$ $\color{#F11668}{Buro}$ $\color{#844654}{(Muse}$ $\color{#844654}{Dash)!}$
+   
+   $\color{#6D243C}{⸝⸝}$ <a href="https://github.com/Rakviyem">Rakviyem</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#6D243C}{Artificier}$ $\color{#844654}{(Rain}$ $\color{#844654}{World)!}$ 
    
    $\color{#FF82C8}{⸝⸝}$ <a href="https://github.com/ramudaa">ramudaa</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#FF82C8}{Ramuda}$ $\color{#FF82C8}{Amemura}$ $\color{#844654}{(Hypnosis}$ $\color{#844654}{Mic)!}$
 
