@@ -30,7 +30,7 @@ $\color{#F4C96F}{The}$ $\color{#F4C96F}{character/fan}$ $\color{#F4C96F}{categor
 
  $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{most}$ $\color{#F4C96F}{gifted:}$ <a href="https://github.com/tirgery123">tirgery123</a> ; <a href="https://github.com/Xaplastcore">Xaplastcore</a> ; <a href="https://github.com/dewittelurv">dewittelurv</a>
 
- $\color{#F4C96F}{✦︎}$ $\color{#844654}{Pt's}$ $\color{#844654}{comfiest}$ $\color{#844654}{c+hs:}$ <a href="https://github.com/77crescentmoon">77crescentmoon</a> ; <a href="https://github.com/vistaparadox">vistaparadox</a> ; <a href="https://github.com/dewittelurv">dewittelurv</a> ;  <a href="https://github.com/Mayumixx">Mayumixx</a>
+ $\color{#F4C96F}{✦︎}$ $\color{#844654}{Pt's}$ $\color{#844654}{comfiest}$ $\color{#844654}{c+hs:}$ <a href="https://github.com/77crescentmoon">77crescentmoon</a> ; <a href="https://github.com/vistaparadox">vistaparadox</a> ; <a href="https://github.com/dewittelurv">dewittelurv</a> ;  <a href="https://github.com/Mayumixx">Mayumixx</a> ; <a href="https://github.com/jordiplier">jordiplier</a> $\color{#F4C96F}{CATEGORY}$ $\color{#F4C96F}{CLOSED!}$
 
  $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{popular}$ $\color{#F4C96F}{kids:}$ <a href="https://github.com/01-800-PAPU">01-800-PAPU</a>
 
@@ -71,7 +71,6 @@ $\color{#F4C96F}{The}$ $\color{#F4C96F}{character/fan}$ $\color{#F4C96F}{categor
 
    $\color{#ff6200}{⸝⸝}$ <a href="https://github.com/freakedoutboy">freakedoutboy</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#ff6200}{Michealangelo}$ $\color{#844654}{(Teenage}$ $\color{#844654}{Mutant}$  $\color{#844654}{Ninja}$  $\color{#844654}{Turtles}$  $\color{#844654}{2012)!}$  
    
-   $\color{#E56F42}{⸝⸝}$ <a href="https://github.com/OrangeDeltarune">OrangeDeltarune</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#E56F42}{LookOut3D}$ $\color{#844654}{(MCYT)!}$ 
 
    $\color{#F69531}{⸝⸝}$ <a href="https://github.com/nutslover09">nutslover09</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#F69531}{Matt}$ $\color{#844654}{(Eddsworld)!}$ 
    
@@ -127,7 +126,7 @@ $\color{#F4C96F}{The}$ $\color{#F4C96F}{character/fan}$ $\color{#F4C96F}{categor
    
    $\color{#01670E}{⸝⸝}$ <a href="https://github.com/VCR3ATORMAX">VCR3ATORMAX</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#01670E}{Lloyd}$ $\color{#844654}{(Lego}$ $\color{#844654}{Ninjago)!}$ 
 
-   $\color{#386759}{⸝⸝}$ <a href="https://github.com/GHOSTBUSTERS-SFX">GHOSTBUSTERS-SFX</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#386759}{Scared}$ $\color{#386759}{French}$ $\color{#386759}{Soldier}$ $\color{#844654}{(Guts}$ $\color{#844654}{and}$ $\color{#844654}{Blackpowder)!}$
+   $\color{#386759}{⸝⸝}$ <a href="https://github.com/Ham-milton">Ham-milton</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#386759}{Scared}$ $\color{#386759}{French}$ $\color{#386759}{Soldier}$ $\color{#844654}{(Guts}$ $\color{#844654}{and}$ $\color{#844654}{Blackpowder)!}$
 
    
 
@@ -259,6 +258,7 @@ $\color{#F4C96F}{The}$ $\color{#F4C96F}{character/fan}$ $\color{#F4C96F}{categor
 
    $\color{#dbdbdb}{⸝⸝}$ <a href="https://github.com/mydad-is-myhero">mydad-is-myhero</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#dbdbdb}{Garou}$ $\color{#844654}{(One}$ $\color{#844654}{Punch}$ $\color{#844654}{Man)!}$
 
+   $\color{#D8E0EC}{⸝⸝}$ <a href="https://github.com/OrangeDeltarune">OrangeDeltarune</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#D8E0EC}{White}$ $\color{#844654}{(Among}$ $\color{#844654}{Us}$ $\color{#844654}{Show)!}$ 
 
 
 
