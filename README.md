@@ -55,6 +55,8 @@ $\color{#F4C96F}{The}$ $\color{#F4C96F}{character/fan}$ $\color{#F4C96F}{categor
 
    $\color{#D31F28}{⸝⸝}$ <a href="https://github.com/waveriy">waveriy</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#D31F28}{Twoface}$ $\color{#844654}{(DC)!}$  
    
+   $\color{#D80C12}{⸝⸝}$ <a href="https://github.com/computerfanaticc">computerfanaticc</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#D80C12}{HAL-9000}$ $\color{#844654}{(2001:}$ $\color{#844654}{ASO)!}$
+   
    $\color{#eb1717}{⸝⸝}$ <a href="https://github.com/suguruberry">suguruberry</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$  $\color{#eb1717}{Spiderman}$ $\color{#844654}{(Marvel)!}$ 
    
    $\color{#ff1e00}{⸝⸝}$ <a href="https://github.com/disorderlyfashion">disorderlyfashion</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#ff1e00}{Raphael}$ $\color{#844654}{(Teenage}$ $\color{#844654}{Mutant}$  $\color{#844654}{Ninja}$  $\color{#844654}{Turtles}$ $\color{#844654}{2012)!}$   
@@ -135,8 +137,6 @@ $\color{#F4C96F}{The}$ $\color{#F4C96F}{character/fan}$ $\color{#F4C96F}{categor
    
    
    $\color{#1A2E3C}{⸝⸝}$ <a href="https://github.com/VERGILSSBEING">VERGILSSBEING</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#1A2E3C}{Vergil}$ $\color{#844654}{(Devil}$ $\color{#844654}{May}$ $\color{#844654}{Cry)!}$
-   
-   $\color{#016C8F}{⸝⸝}$ <a href="https://github.com/computerfanaticc">computerfanaticc</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#016C8F}{Leith}$ $\color{#016C8F}{Pierre}$ $\color{#844654}{(Poppy}$ $\color{#844654}{Playtime)!}$
 
    $\color{#2D9FBA}{⸝⸝}$ <a href="https://github.com/WhispedVanilla">WhispedVanilla</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#2D9FBA}{Slingshot}$ $\color{#844654}{(Phighting)!}$
    
