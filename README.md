@@ -203,8 +203,7 @@ $\color{#F4C96F}{The}$ $\color{#F4C96F}{character/fan}$ $\color{#F4C96F}{categor
    
    
    $\color{#ff54dd}{⸝⸝}$ <a href="https://github.com/Nyanmare">Nyanmare</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#ff54dd}{Nyan}$ $\color{#ff54dd}{Cat's}$  $\color{#ff54dd}{number}$  $\color{#ff54dd}{1}$  $\color{#ff54dd}{fan!}$
-   
-   $\color{#FE0DDB}{⸝⸝}$ <a href="https://github.com/1PWNn00bz">1PWNn00bz</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#FE0DDB}{Infected}$ $\color{#844654}{(Regretevator)!}$ 
+  
    
    $\color{#D91D8A}{⸝⸝}$ <a href="https://github.com/kiwiconicc">kiwiconicc</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#D91D8A}{Saiki}$ $\color{#D91D8A}{Kusuo}$ $\color{#844654}{(Saiki}$ $\color{#844654}{K)!}$  
    
