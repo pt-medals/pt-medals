@@ -26,19 +26,19 @@ $\color{#F4C96F}{The}$ $\color{#F4C96F}{character/fan}$ $\color{#F4C96F}{categor
 
 # $\color{#F4C96F}{⋆.˚}$ $\color{#844654}{HONORABLE}$ $\color{#844654}{MENTIONS}$ $\color{#F4C96F}{⋆.˚}$
 
- $\color{#F4C96F}{✦︎}$ $\color{#844654}{Pt's}$ $\color{#844654}{biggest}$ $\color{#844654}{gifters:}$ <a href="https://github.com/TeaReverie">TeaReverie</a>
+ $\color{#F4C96F}{✦︎}$ $\color{#844654}{Pt's}$ $\color{#844654}{biggest}$ $\color{#844654}{gifters:}$ <a href="https://github.com/TeaReverie">TeaReverie</a> $\color{#F4C96F}{CATEGORY}$ $\color{#F4C96F}{CLOSED!}$
 
- $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{most}$ $\color{#F4C96F}{gifted:}$ <a href="https://github.com/tirgery123">tirgery123</a> ; <a href="https://github.com/Xaplastcore">Xaplastcore</a> ; <a href="https://github.com/dewittelurv">dewittelurv</a>
+ $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{most}$ $\color{#F4C96F}{gifted:}$ <a href="https://github.com/tirgery123">tirgery123</a> ; <a href="https://github.com/dewittelurv">dewittelurv</a> $\color{#F4C96F}{CATEGORY}$ $\color{#F4C96F}{CLOSED!}$
 
  $\color{#F4C96F}{✦︎}$ $\color{#844654}{Pt's}$ $\color{#844654}{comfiest}$ $\color{#844654}{c+hs:}$ <a href="https://github.com/77crescentmoon">77crescentmoon</a> ; <a href="https://github.com/vistaparadox">vistaparadox</a> ; <a href="https://github.com/dewittelurv">dewittelurv</a> ;  <a href="https://github.com/Mayumixx">Mayumixx</a> ; <a href="https://github.com/jordiplier">jordiplier</a> $\color{#F4C96F}{CATEGORY}$ $\color{#F4C96F}{CLOSED!}$
 
- $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{popular}$ $\color{#F4C96F}{kids:}$ <a href="https://github.com/01-800-PAPU">01-800-PAPU</a>
+ $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{popular}$ $\color{#F4C96F}{kids:}$ <a href="https://github.com/01-800-PAPU">01-800-PAPU</a> $\color{#F4C96F}{CATEGORY}$ $\color{#F4C96F}{CLOSED!}$
 
 
 
 #   $\color{#844654}{⋆˚࿔}$ $\color{#F4C96F}{CATEGORIES!}$   $\color{#844654}{⋆˚࿔}$
 
- $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{characters/fans:}$
+ $\color{#844654}{✦︎}$ $\color{#F4C96F}{Pt's}$ $\color{#F4C96F}{characters/fans:}$ $\color{#F4C96F}{CATEGORY}$ $\color{#F4C96F}{CLOSED!}$
 
 
 
@@ -270,7 +270,7 @@ $\color{#F4C96F}{The}$ $\color{#F4C96F}{character/fan}$ $\color{#F4C96F}{categor
    
    $\color{#363636}{⸝⸝}$ <a href="https://github.com/Corintheuss">Corintheuss</a> $\color{#844654}{:}$ $\color{#844654}{pt's}$ $\color{#363636}{Artful}$ $\color{#844654}{(DOD)!}$
 
-<h2> $\color{#F4C96F}{✦︎}$ $\color{#844654}{If}$ $\color{#844654}{you're}$ $\color{#844654}{looking}$ $\color{#844654}{for}$ $\color{#844654}{the}$ $\color{#844654}{other}$ $\color{#844654}{categories,}$ $\color{#844654}{click}$ <a href="https://github.com/pt-medals2">this link</a> $\color{#844654}{!}$ </h2>
+<h2> $\color{#F4C96F}{✦︎}$ $\color{#844654}{If}$ $\color{#844654}{you're}$ $\color{#844654}{looking}$ $\color{#844654}{for}$ $\color{#844654}{the}$ $\color{#844654}{other}$ $\color{#844654}{categories,}$ $\color{#844654}{click}$ <a href="https://github.com/pt-medals2">this link</a> </h2>
     
 
 <p align=center>
